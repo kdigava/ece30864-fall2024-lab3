@@ -8,3 +8,8 @@ Cons:
 1. Lack of documentation can be an issue because the scope of the project is changing many times
 2. Scope creep can also occur because the customers might demand more from the system each sprint cycles
 
+(b)
+
+A Scrum Master leads the Agile development team and supports product owner by relaying updates to relevant employees.
+Product owners manage the product backlog and ensure the company gains maximum value from product.
+
