@@ -1,0 +1,10 @@
+(a) 
+
+Pros: 
+1. flexibility: the methodology is adaptable and can change to changing development environments
+2. There is immediate feedback since development is in cycles where customers can input feedback each cycles
+
+Cons:
+1. Lack of documentation can be an issue because the scope of the project is changing many times
+2. Scope creep can also occur because the customers might demand more from the system each sprint cycles
+
