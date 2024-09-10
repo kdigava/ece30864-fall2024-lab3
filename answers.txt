@@ -13,3 +13,16 @@ Cons:
 A Scrum Master leads the Agile development team and supports product owner by relaying updates to relevant employees.
 Product owners manage the product backlog and ensure the company gains maximum value from product.
 
+(c)
+
+Daily Scrum - 
+1. syncs daily activities
+2. highlight blockers
+
+Sprint planning - 
+1.plan the sprint's work
+2.create the sprint backlog
+
+sprint review - 
+1. assess progress
+2. gather stakeholder feedback
