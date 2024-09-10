@@ -26,3 +26,11 @@ Sprint planning -
 sprint review - 
 1. assess progress
 2. gather stakeholder feedback
+
+(d)
+
+Epics: represent broad objectives that can be broken down into stories, tasks, bugs.
+Stories: smallest unit of work that needs to be done.
+Bug: A problem that prevents function of a product.
+Tasks: Work that needs to be done.
+
